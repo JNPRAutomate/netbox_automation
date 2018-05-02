@@ -77,8 +77,8 @@ pip install requests
 Run these commands on your laptop:
 ```
 sudo -s
-git clone https://github.com/JNPRAutomate/junos_automation_with_netbox.git
-cd junos_automation_with_netbox
+git clone https://github.com/JNPRAutomate/netbox_automation.git
+cd netbox_automation
 ```
 
 ## Define your variables
